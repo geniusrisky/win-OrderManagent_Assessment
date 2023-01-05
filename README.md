@@ -108,3 +108,16 @@ We are looking for:
 2. Solution Design
 3. Completeness
 4. Code clarity / readability
+
+
+
+
+
+*****Postman collection:https://documenter.getpostman.com/view/24980490/2s8Z73xWAY
+
+***** .env{
+  MONGO_URL = " "
+port = 8000
+Name = orderMangement
+
+}
